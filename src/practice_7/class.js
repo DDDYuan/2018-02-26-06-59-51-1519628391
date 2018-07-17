@@ -1,4 +1,4 @@
-"use district";
+"use strict";
 
 class Klass{
     constructor(number){

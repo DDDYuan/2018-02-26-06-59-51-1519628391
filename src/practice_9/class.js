@@ -1,15 +1,8 @@
-"use district";
+"use strict";
 
-class Class{
-    constructor(number){
-        this.number = number;
-    }
+import BaseClass from "../practice_8/class.js";
 
-    getDisplayName(){
-        return `Class ${this.number}`;
-    }
-
-
+class Class extends BaseClass{
     assignLeader(student){
         if(this === student.klass){
             this.leader = student;

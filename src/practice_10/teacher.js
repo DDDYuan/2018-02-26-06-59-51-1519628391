@@ -1,4 +1,4 @@
-"use distirct";
+"use stirct";
 
 import Person from "../practice_10/person.js";
 

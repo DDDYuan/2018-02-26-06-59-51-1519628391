@@ -1,5 +1,5 @@
 "use district";
 
-import Person from "../practice_8/person.js";
+import Person from "../practice_9/person.js";
 
 export default Person;

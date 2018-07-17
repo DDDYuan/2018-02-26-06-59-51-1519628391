@@ -1,14 +1,11 @@
-"use district";
+"use strict";
 
-class Person{
+import BasePerson from "../practice_7/person.js";
+
+class Person extends BasePerson{
     constructor(id, name, age){
+        super(name, age);
         this.id = id;
-        this.name = name;
-        this.age = age;
-    }
-
-    introduce(){
-        return `My name is ${this.name}. I am ${this.age} years old.`;
     }
 
     equals(other){

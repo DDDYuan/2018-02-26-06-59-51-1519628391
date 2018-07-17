@@ -1,4 +1,4 @@
-"use district";
+"use strict";
 
 import Person from "../practice_7/person";
 

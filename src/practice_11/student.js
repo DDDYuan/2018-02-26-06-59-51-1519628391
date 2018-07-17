@@ -1,5 +1,5 @@
 "use strict";
 
-import Student from "../practice_8/student.js";
+import Student from "../practice_10/student.js";
 
 export default Student;

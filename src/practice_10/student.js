@@ -1,5 +1,5 @@
 "use district";
 
-import Student from "../practice_8/student.js";
+import Student from "../practice_9/student.js";
 
 export default Student;

@@ -1,5 +1,5 @@
-"use district";
+"use strict";
 
-import Person from "../practice_1/person.js";
+import Person from "../practice_2/person.js";
 
 export default Person;

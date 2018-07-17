@@ -1,4 +1,4 @@
-"use district";
+"use strict";
 
 import Student from "../practice_4/student.js";
 
